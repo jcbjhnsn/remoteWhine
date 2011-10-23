@@ -1,0 +1,1 @@
+[Easy Ruby cronjobs with daemon-kit](http://www.opensourcery.co.za/2009/04/28/easy-ruby-cronjobs-with-daemon-kit/ "Easy Ruby cronjobs with daemon-kit | Open Sourcery")
