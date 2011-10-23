@@ -1,0 +1,1 @@
+Right, so this is where I try to use Ruby and some Ruby gems to get a machine to acquire it's outermost IP (or the external ip of it's gateway) and do stuff with the resulting string. First, I'll try to make it tweet that string. Then we'll be done for a while. 
