@@ -31,5 +31,5 @@ Twitter.update(ifconfig[0] << random_word[0])
 
 # todo
 # Abstract everything to preferences file
-# Add reply and query functionaliry
+# Add reply and query functionality
 # Add communication with attached machines
